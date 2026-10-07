@@ -1,0 +1,6 @@
+{
+  "name": "Switch Port Launcher - PC Game Launcher",
+  "description": "Clon exacto de la interfaz de la Nintendo Switch para lanzar ports de PC con escaneo de carpetas MisJuegos, efectos de sonido y controles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
